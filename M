@@ -1,0 +1,4 @@
+mango
+color: orange
+sweet: true
+seed: true
